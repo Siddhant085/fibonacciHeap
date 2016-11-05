@@ -1,0 +1,8 @@
+create h1
+insert h1 5
+insert h1 2
+h1 right z
+decreaseKey h1 z 1
+display h1
+1,2,
+exit
